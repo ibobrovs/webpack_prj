@@ -1,0 +1,8 @@
+{
+    "messages": [
+      { "id": 1, "text": "Hello, World!" },
+      { "id": 2, "text": "Hello, Webpack!" }
+    ]
+  }
+
+  
